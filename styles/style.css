@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6, p{
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
-  background-color: #2f80ed ;
+  background-color: #2f80ed;
   height: 568px;
   width: 568px;
   position: absolute;
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6, p{
 
 .table__cell{
   width: 250px;
-  margin-top: 60px
+  margin-top: 60px;
 }
 
 .table__heading{
@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6, p{
   font-size: 120px;
   font-weight: bold;
   text-align: center;
-  margin: 0 auto ;
+  margin: 0 auto;
 }
 
 .feynman__subtitle{
